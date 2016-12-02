@@ -1,4 +1,12 @@
-impress.js
+[Freifunk Bodensee](https://bodensee-freifunk.net) stellt sich hier mit einer kleinen [Impress.js](https://github.com/impress/impress.js/wiki) [Präsentation](https://vpn3.ffbsee.de/praesentation) vor.
+
+Um die Präsentation aktuell zu halten, sind Änderungsvorschläge (am liebsten via Pull Request) gerne gesehen. Die Präsentation auf [vpn3.ffbsee.de/praesetation](https://vpn3.ffbsee.de/praesentation) wird zu jeder Stunde einmal von Github gepullt, so das aktualisierungen nach spätestens 1 Stunde wirksam sind, sobald diese gemerged wurden.
+
+Um den Inhalt der Präsentation zu ändern ist es am einfachsten, einfach die **index.html** zu editieren!
+
+
+
+Weitere Informationen zu impress.js:
 ============
 
 [![CircleCI](https://circleci.com/gh/impress/impress.js.svg?style=svg)](https://circleci.com/gh/impress/impress.js)
